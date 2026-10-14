@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="3les_unificovaniInitializers_copying/3les_unificovaniInitializers_copying.vcxproj" />
+</Solution>
